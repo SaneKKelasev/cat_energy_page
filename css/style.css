@@ -272,7 +272,7 @@
   background-image: url("../img/how-works/userful.svg");
 }
 .how-works__item--powder::after {
-  background-image: url("../../img/how-works/powder.svg");
+  background-image: url("../img/how-works/powder.svg");
 }
 .how-works__item--functional::after {
   background-image: url("../img/how-works/functional.svg");
