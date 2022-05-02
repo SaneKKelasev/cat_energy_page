@@ -115,7 +115,7 @@
 }
 .selection__program {
   height: 70vmax;
-  background-image: url("../../img/selection/filter.svg"), url("../../img/selection/background-small.jpg");
+  background-image: url("../img/selection/filter.svg"), url("../img/selection/background-small.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -193,14 +193,14 @@
 .catalog__title--slim::after {
   width: 36px;
   height: 50px;
-  background-image: url("../../img/catalog/cat-slim.svg");
+  background-image: url("../img/catalog/cat-slim.svg");
   left: 7px;
   top: -8px;
 }
 .catalog__title--pro::after {
   width: 67px;
   height: 28px;
-  background-image: url("../../img/catalog/cat-mass-gain.svg");
+  background-image: url("../img/catalog/cat-mass-gain.svg");
   left: -10px;
   top: 5px;
 }
@@ -226,7 +226,7 @@
   position: absolute;
   width: 32px;
   height: 10px;
-  background-image: url("../../img/catalog/arrow.svg");
+  background-image: url("../img/catalog/arrow.svg");
   background-repeat: no-repeat;
   margin-left: 15px;
   top: 17px;
@@ -268,16 +268,16 @@
   background-repeat: no-repeat;
 }
 .how-works__item--useful::after {
-  background-image: url("../../img/how-works/userful.svg");
+  background-image: url("../img/how-works/userful.svg");
 }
 .how-works__item--powder::after {
-  background-image: url("../../img/how-works/powder.svg");
+  background-image: url("../img/how-works/powder.svg");
 }
 .how-works__item--functional::after {
-  background-image: url("../../img/how-works/functional.svg");
+  background-image: url("../img/how-works/functional.svg");
 }
 .how-works__item--time::after {
-  background-image: url("../../img/how-works/time.svg");
+  background-image: url("../img/how-works/time.svg");
 }
 .how-works__description {
   margin: 0;
